@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Isabela, Isa, or Bela
+# 👋 Hi, I’m Isabela
 
 👾 I’m currently immersed in a six-month bootcamp with [She Codes Australia](https://shecodes.com.au/)  
 🌱 I’m diving deep into HTML, CSS, Python, Django, React, JavaScript, and Node.js  
