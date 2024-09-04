@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Isabela
 
-👾 I’m currently immersed in a six-month bootcamp with [She Codes Australia](https://shecodes.com.au/)  
-🌱 I’m diving deep into HTML, CSS, Python, Django, React, JavaScript, and Node.js  
-👩🏽‍💻 With over six years of experience in marketing, I’m now on an exciting journey to become a software developer  
+👾 I’m currently immersed in a six-month bootcamp with [She Codes Australia](https://shecodes.com.au/)
+🌱 I’m diving deep into HTML, CSS, Python, Django, React and JavaScript
+👩🏽‍💻 Transitioning from marketing to a soon to be software developer
 😄 Pronouns: She/Her  
 🇧🇷 Living in 🇦🇺
 
