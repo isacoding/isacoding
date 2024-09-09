@@ -3,7 +3,6 @@
 👾 I’m currently immersed in a six-month bootcamp with [She Codes Australia](https://shecodes.com.au/)  
 🌱 I’m diving deep into HTML, CSS, Python, Django, React, and JavaScript  
 👩🏽‍💻 Transitioning from marketing and gearing up to become a software developer  
-😄 Pronouns: She/Her  
 🇧🇷 Living in 🇦🇺  
 
 
