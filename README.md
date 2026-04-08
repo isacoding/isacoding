@@ -2,6 +2,6 @@
 
 👩🏽‍💻 Developer at Auto & General Australia
 
-👾 She Codes Australia alumni
+👾 [She Codes Australia](https://shecodes.com.au/) alumni
 
-📫 Let's connect! Reach out to me on LinkedIn
+📫 Let's connect! Reach out to me on [LinkedIn](https://www.linkedin.com/in/isabela-alcantara/)
