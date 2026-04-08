@@ -1,11 +1,7 @@
 # 👋 Hi, I’m Isabela
 
-👾 I’m currently immersed in a six-month bootcamp with [She Codes Australia](https://shecodes.com.au/)  
-🌱 I’m diving deep into HTML, CSS, Python, Django, React, and JavaScript  
-👩🏽‍💻 Tech Academy Trainee at Auto & General Australia
-
-🇧🇷 Living in 🇦🇺  
-
+👩🏽‍💻 Developer at Auto & General Australia
+👾 [She Codes Australia](https://shecodes.com.au/) alumni
 
 <br>
 
